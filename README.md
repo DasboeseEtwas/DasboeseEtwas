@@ -7,3 +7,5 @@
 - Xamarin
 - VisualStudio
 - API
+- Django
+- Angular
