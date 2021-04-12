@@ -3,7 +3,7 @@
 ## Interested in and Learning
 
 - C#
-- Javascript
+- Javascript (Node.js)
 - Xamarin
 - VisualStudio
 - API
