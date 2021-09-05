@@ -10,3 +10,4 @@
 - API
 - Django
 - Angular
+- Vue
